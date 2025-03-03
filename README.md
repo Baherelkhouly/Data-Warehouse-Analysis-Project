@@ -36,11 +36,3 @@ How to Use
 
 3. Analyze the generated reports and insights
 
-
-
-License
-
-This project is licensed under [Your Preferred License].
-
-Let me know if you need any modifications!
-
